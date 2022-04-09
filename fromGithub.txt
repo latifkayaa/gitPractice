@@ -2,3 +2,4 @@ This file that I added directly from GitHub.com
 And I'm about to commit directly to GitHub.com remote repository.
 This is not something we would do normaly. 
 We are just trying to simulate a situation where remote repository history is ahead of local repository history.
+Try
